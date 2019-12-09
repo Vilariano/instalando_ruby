@@ -3,5 +3,5 @@
   <img src="img/cmder_001.png" alt="cmder_001" />
 
   ##.2 Deppois precisamos Desconpactar o arquivo de download <b>(Sugiro fazer isto dentro da pasta C:/)</b>
-  <img src="img/cmder_001.png" alt="cmder_002" />
-  <img src="img/cmder_001.png" alt="cmder_003" />
+  <img src="img/cmder_002.png" alt="cmder_002" />
+  <img src="img/cmder_003.png" alt="cmder_003" />
