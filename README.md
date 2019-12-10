@@ -1,5 +1,5 @@
-# Como o **[Ruby não e uma linguagem compilável](https://www.ruby-lang.org/pt/about/)**, ou seja ela é uma linguagem interpretada, precisamos de um Prompt de Command para interpreta-la via linha de comando!
-# No nosso caso como estamos no Windows, vamos usar um programinha bem top e turbinado que se chama Console Emulator.
+### Como o **[Ruby não e uma linguagem compilável](https://www.ruby-lang.org/pt/about/)**, ou seja ela é uma linguagem interpretada, precisamos de um Prompt de Command para interpreta-la via linha de comando!
+### No nosso caso como estamos no Windows, vamos usar um programinha bem top e turbinado que se chama Console Emulator.
 
 # Instalando Console Emulator:
   ## 1 - Faça download do pacote FULL no site [http://cmder.net/](http://cmder.net/)
