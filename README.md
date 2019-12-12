@@ -3,19 +3,35 @@
 
 # Instalando Console Emulator:
   ## 1 - Faça download do pacote FULL no site [http://cmder.net/](http://cmder.net/)
-  <img src="img/cmder_001.png" alt="cmder_001" />
+  ![](img/cmder_001.png)
 
   ## 2 - Deppois precisamos Desconpactar o arquivo de download <b>(Sugiro fazer isto dentro da pasta C:/)</b>
-  <img src="img/cmder_002.png" alt="cmder_002" />
-  <img src="img/cmder_003.png" alt="cmder_003" />
+  ![](img/cmder_002.png)
+  ![](img/cmder_003.png)
 
   ## 3 - Então e só entrar na pasta que foi criada e executar o seguinte arquivo:
   '''
   Cmder.exe
   '''
-  <img src="img/cmder_004.png" alt="cmder_004" />
+  ![](img/cmder_004.png)
+
 
   ## 4 - Será aberto o seguinte terminal:
-  <img src="img/cmder_005.png" alt="cmder_005" />
+  ![](img/cmder_005.png)
+
 
   ### Se o terminal que foi aberto for semelhando ao acima, estamos prontos para começar a instalação do ruby.
+
+# Istalando Ruby no Windows
+  ##  1 - Fazer download da versão estável do ruby, ela sempre estará em **Negrito** como na imagem!
+  Link: [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
+  ![](img/ruby_001.png)
+
+  ## 2 - Depois que o Download foi finalizado e so executar o arquivo e ele abrirá a seguinte janela:
+  ### **Selecionar a opção "I accept the License" e clicar em "Next >"**
+  ![](img/ruby_002.png)
+
+  ### **Preencher todos os flag's como na imagem, clicar em "Install"**
+  ![](img/ruby_003.png)
+
+  ### ** **
