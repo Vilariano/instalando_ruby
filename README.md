@@ -34,4 +34,55 @@
   ### **Preencher todos os flag's como na imagem, clicar em "Install"**
   ![](img/ruby_003.png)
 
-  ### ** **
+  ### **Preencher todos os flag's como na imagem, clicar em "Next >"**
+  ![](img/ruby_004.png)
+
+  ### **Ruby sendo instalado…**
+  ![](img/ruby_005.png)
+
+  ### **Clicar em “Finish”, em seguida abrirá um terminal para instalação dos certificados e dependencias!**
+  ![](img/ruby_006.png)
+
+  ### **Será aberto um terminal como o da imagem!!**
+  ### **Ele te dará 3 opções de instalação, apenas pressione Enter e aguarde!!**
+  ![](img/ruby_007.png)
+
+  ### **Iniciando a instalação das dependências do Ruby.**
+  ![](img/ruby_008.png)
+
+  ### **Se nenhum bloqueio tiver acontecido, a tela final será assim, e só pressionar enter que tudo foi instalado lindamente.**
+  ![](img/ruby_009.png)
+  ![](img/ruby_010.png)
+
+  ### **Para verificar se o Ruby foi instalado e só abrir o CMD e digitar o comando:**
+  '''
+  Ruby -v
+  '''
+  ![](img/ruby_011.png)
+  ### **Se sua resposta foi igual a está, parabéns deu tudo certo!**
+
+# **Instalando o [VScode](https://code.visualstudio.com)**
+  ## 1 - Faça download do vscode no site: [https://code.visualstudio.com](https://code.visualstudio.com)
+  ![](img/vs_code_001.png)
+
+  ### **Depois que o download for finalizado, execute o arquivo**
+  ### **A segunte janela será aberta, Aceitar os termos e clicar em "Next >"**
+  ![](img/vs_code_002.png)
+
+  ### **Usar a pasta padrão do sistema e clicar em "Next >"**
+  ![](img/vs_code_003.png)
+
+  ### **Não precisa criar uma pasta inicial, clicar em "Next >"**
+  ![](img/vs_code_004.png)
+
+  ### **Selecionar os seguintes flags, clicar em "Next >"**
+  ![](img/vs_code_005.png)
+  
+  ### **Clicar em "Install"...**
+  ![](img/vs_code_006.png)
+  ![](img/vs_code_007.png)
+
+  ### **Clicar em "Finish"**
+  ![](img/vs_code_008.png)
+
+# **Ponto, Ruby instalado e pronto para uso!!!**
